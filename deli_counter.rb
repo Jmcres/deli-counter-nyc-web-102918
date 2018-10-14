@@ -13,4 +13,6 @@ def line(deli)
 end
 
 
-def 
+def take_a_number(deli, name)
+  deli << name
+  puts 
